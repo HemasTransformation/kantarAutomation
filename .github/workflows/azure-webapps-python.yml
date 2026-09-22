@@ -20,7 +20,7 @@
 name: Build and deploy Python app to Azure Web App
 
 env:
-  AZURE_WEBAPP_NAME: kantarAutomation  # set this to the name of your Azure Web App
+  AZURE_WEBAPP_NAME: KantarAutomation  # set this to the name of your Azure Web App
   PYTHON_VERSION: '3.14'              # set this to the Python version to use
 
 on:
